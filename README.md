@@ -37,7 +37,7 @@ Each record in the collection is set up as follows:
 
 Use the attached students.json file to seed the mongo database.
 
-`$ mongoimport -d school -c students < students.json `
+`$ mongoimport -d school -c students < students.e7ed0a289cbe.json `
 
 ### Executing the Program
 
